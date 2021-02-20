@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Open+Sans&display=swap');
+
+body{
+    text-align: center;
+    color: black;
+}
+
+.Heading{
+    font-family: 'Balsamiq Sans', cursive;
+    font-size: large;
+}
+
+.Location{
+    font-size: small;
+    font-family: 'Open Sans', sans-serif;
+}
