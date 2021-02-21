@@ -23,7 +23,7 @@ function Location(props){
         return (
             <div className="Location">
                 <h2>{data.country_name ? "Country: " + data.country_name : "Unfortunately couldn't find your country"}</h2> 
-                <h2>{dataForView.city ? "City: " + dataForView.city.substring(1,) : "Unfortunately I was unable to locate your city"}</h2> 
+                <h2>{dataForView.city ? "City: " + dataForView.city.substring(1,) : "Unfortunately I could not locate the city"}</h2> 
                 <iframe width="400" height="300" loading="lazy" allowFullScreen frameBorder="0" src= {url} ></iframe>
             </div>
         );
