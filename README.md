@@ -1,6 +1,6 @@
 # Where's Waldo?
 
-### [Click here](https://danadvo.github.io/findWaldo/) and you'll find out your own location.
+### [Click here](https://h9svp.csb.app/) and you'll find out your own location.
 
 ![Waldo](https://i.ibb.co/MPrM4fL/Capture.png)
 
